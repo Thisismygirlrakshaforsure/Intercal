@@ -1,0 +1,5 @@
+DO ,1 <- #13
+DO ,2 <- #2
+PLEASE DO ,1 SUB #1 <- #0
+DO READ OUT ,1
+PLEASE GIVE UP
